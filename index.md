@@ -1,2 +1,2 @@
-![Guy in the chair]([https://octodex.github.com/images/yaktocat.png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Guy in the chair](https://github.com/Joeljoy1237/skills-communicate-using-markdown/blob/start-markdown/guy_in_chair.gif)
 # Hello I am Joel Joy #
